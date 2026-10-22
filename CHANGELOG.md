@@ -1,5 +1,14 @@
 # Registro de mudanças
 
+## 2026-10-22 — alinhamento extra e inspeção do Figma
+
+- Preservados resumo e transcrição integrais da reunião de 21/10, com análise e marcações de tempo.
+- Atualizada a direção para sete cores observadas nas amostras manuais; preservada a direção 02 em histórico.
+- Documentada divergência entre amostras novas e tokens/aplicações anteriores; Figma apenas consultado.
+- Registrados responsáveis por branding, logo, paletas, tipos, elementos, personagens, adesivos e motion.
+- Atualizadas prioridades de produção, fotos, conteúdo e pendências, sem tratar sugestões como entregas.
+- Conferidas 75 imagens no moodboard; preservados 78 arquivos e marcadas as três ausências no manifesto/catálogo.
+
 ## 2026-10-21 — memória compartilhada
 
 - Consolidados contexto atual, projeto, personas, identidade, referências, histórico da conversa e pendências.

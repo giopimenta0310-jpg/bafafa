@@ -47,3 +47,7 @@ A usuária esclareceu que as paletas novas não conversavam com a base e que Pin
 ## 21/10 — memória compartilhada no GitHub
 
 A usuária indicou `giopimenta0310-jpg/bafafa` e pediu reunir todo o contexto disponível para as três continuarem em diferentes dispositivos. O repositório estava vazio e público. Esta consolidação distingue estado atual, história, transcrições, referências visuais e propostas. Nenhum mecanismo de sincronização automática foi solicitado em detalhe ou implementado; novos registros precisam de commit/push.
+
+## 22/10/2026 — reunião extra e atualização do contexto
+
+A usuária enviou resumo e transcrição de reunião realizada em 21/10 e informou mudanças no Figma, solicitando análise e atualização no GitHub. Foram preservadas as fontes, extraídas decisões e responsabilidades e inspecionado o design sem alterações. A paleta de sete cores desenhada manualmente substitui a proposta anterior como direção de trabalho; tokens e aplicações antigas ainda divergem. O moodboard tem 75 imagens, com 78 arquivos preservados no histórico. Ver [análise detalhada](07-alinhamento-2026-10-21.md). Não foram executadas compras, mensagens, geração de personagens, motion ou edições no Figma a partir de falas da reunião.

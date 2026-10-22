@@ -30,3 +30,7 @@ Este arquivo não cria sincronização automática e não autoriza acesso a serv
 Arquivo Figma: `M8pP4Lkc4F3SUp7pC6WWLB`. Projeto base `3:2`; personas `15:47`; moodboard `15:90`. IDs de nós auxiliares podem mudar: inspecionar antes de editar.
 
 Usar as skills aplicáveis antes de operações no Figma. Não guardar neste repositório senhas, cookies, tokens, URLs temporárias de upload ou links de configuração de login. A sessão Tinyfish é um recurso da conta conectada, não um arquivo a compartilhar.
+
+## Estado após o alinhamento de 21/10/2026
+
+A paleta vigente tem sete cores em `design/paleta.json`, observadas nas amostras manuais `64:119` e `64:136`. As variáveis antigas e as fichas/base ainda não estão migradas. Não confundir presença de tokens com aprovação de direção, nem reintroduzir as dez cores antigas como atuais. Diferenciar responsabilidades de entregas concluídas; a lista está em `docs/05-decisoes-e-pendencias.md`. Personas criativas e personagens ilustradas não são equivalentes. Inspecionar novamente o Figma antes de assumir que o estado observado em 22/10 permanece igual.

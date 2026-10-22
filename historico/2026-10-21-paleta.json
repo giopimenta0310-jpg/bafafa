@@ -1,0 +1,84 @@
+{
+  "direcao": "02",
+  "atualizado_em": "2026-10-21",
+  "status": "proposta aplicada no Figma, para validação",
+  "cores": {
+    "pink": {
+      "nome": "Rosa",
+      "hex": "#ED639D",
+      "origem": "Paleta Daffodil / Blush / Lavender"
+    },
+    "lilac": {
+      "nome": "Lavanda",
+      "hex": "#B494F9",
+      "origem": "Paleta Daffodil / Blush / Lavender"
+    },
+    "butter": {
+      "nome": "Manteiga",
+      "hex": "#F8EDAD",
+      "origem": "Paleta Daffodil / Blush / Lavender"
+    },
+    "ink": {
+      "nome": "Bordô profundo",
+      "hex": "#4B1730",
+      "origem": "Derivação escurecida do ameixa para contraste"
+    },
+    "cream": {
+      "nome": "Marfim",
+      "hex": "#F7F6D7",
+      "origem": "Paleta Faded Rose / Dried Plum / Lime Green / Ivory"
+    },
+    "green": {
+      "nome": "Lima",
+      "hex": "#C9D863",
+      "origem": "Paleta Faded Rose / Dried Plum / Lime Green / Ivory"
+    },
+    "red": {
+      "nome": "Ameixa",
+      "hex": "#6E1E3B",
+      "origem": "Paleta Faded Rose / Dried Plum / Lime Green / Ivory"
+    },
+    "apricot": {
+      "nome": "Laranja",
+      "hex": "#EB6B2F",
+      "origem": "Paleta de embalagens enviada"
+    },
+    "softPink": {
+      "nome": "Rosa suave",
+      "hex": "#EAB0C8",
+      "origem": "Paleta Faded Rose"
+    },
+    "coolPink": {
+      "nome": "Lilás suave",
+      "hex": "#E7BEF8",
+      "origem": "Paleta Soft Lilac"
+    }
+  },
+  "personas": {
+    "Fernanda": {
+      "principal": "pink",
+      "apoios": [
+        "green",
+        "cream"
+      ]
+    },
+    "Cecília": {
+      "principal": "butter",
+      "apoios": [
+        "apricot",
+        "softPink"
+      ]
+    },
+    "Giovanna": {
+      "principal": "lilac",
+      "apoios": [
+        "coolPink",
+        "red"
+      ]
+    }
+  },
+  "tipografia": {
+    "titulos": "Fraunces",
+    "texto": "DM Sans"
+  }
+}

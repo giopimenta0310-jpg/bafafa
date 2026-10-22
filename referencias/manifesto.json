@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-21",
+  "atualizado_em": "2026-10-22",
   "total_imagens": 78,
   "cobertura_integral_pinterest_confirmada": false,
   "nota": "URLs coletadas podem refletir slides de carrosséis; associações retornadas pelo Tinyfish nem sempre foram consistentes. Imagens são referências de terceiros.",
@@ -13,7 +13,8 @@
       "links_coletados": [
         "https://i.pinimg.com/736x/e4/24/3a/e4243a0aaa2995ec1578bbcf6bfaf2bc.jpg"
       ],
-      "sha256": "999133679a60df6dc507306f6e2c1dbf202753db1ef22df328381b8b932fde34"
+      "sha256": "999133679a60df6dc507306f6e2c1dbf202753db1ef22df328381b8b932fde34",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "01 · Identidade visual e tipografia",
@@ -24,7 +25,8 @@
       "links_coletados": [
         "https://i.pinimg.com/736x/23/a2/5e/23a25effe1e76bf90f3ba782c962ec31.jpg"
       ],
-      "sha256": "e78edf4b02ae43656697ef66bbeed4148f9633ec8ab84d521d7acc97ba5653eb"
+      "sha256": "e78edf4b02ae43656697ef66bbeed4148f9633ec8ab84d521d7acc97ba5653eb",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "01 · Identidade visual e tipografia",
@@ -35,7 +37,8 @@
       "links_coletados": [
         "https://i.pinimg.com/736x/2e/65/58/2e6558a5ea7a4cb0ef136e2c70985ea3.jpg"
       ],
-      "sha256": "d4762ea31fb5dcf7f542e3f9958237d0ba2d85d2c5b34d653ae26481f335f673"
+      "sha256": "d4762ea31fb5dcf7f542e3f9958237d0ba2d85d2c5b34d653ae26481f335f673",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "01 · Identidade visual e tipografia",
@@ -46,7 +49,8 @@
       "links_coletados": [
         "https://i.pinimg.com/736x/d3/7c/27/d37c277fcf949b4bd5aab82e5f693001.jpg"
       ],
-      "sha256": "97083d2572b942b9ceea3d6e10b35113241e2617b9c210b1517a5534c72573fd"
+      "sha256": "97083d2572b942b9ceea3d6e10b35113241e2617b9c210b1517a5534c72573fd",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "01 · Identidade visual e tipografia",
@@ -57,7 +61,8 @@
       "links_coletados": [
         "https://i.pinimg.com/736x/fb/1d/01/fb1d01c87db13888520ca9a885fa5207.jpg"
       ],
-      "sha256": "332b84faeae888f777ea8c232ad746bf63ccb4e65522b12ea3759806891b1531"
+      "sha256": "332b84faeae888f777ea8c232ad746bf63ccb4e65522b12ea3759806891b1531",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "01 · Identidade visual e tipografia",
@@ -68,7 +73,8 @@
       "links_coletados": [
         "https://i.pinimg.com/736x/7c/a9/43/7ca943b871cf8ccea028ec4d79cc3cc9.jpg"
       ],
-      "sha256": "cc4156feb66fd7ba77062a95217dd2df2be8fb5dc7cb590f7d487196922bb54b"
+      "sha256": "cc4156feb66fd7ba77062a95217dd2df2be8fb5dc7cb590f7d487196922bb54b",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "01 · Identidade visual e tipografia",
@@ -79,7 +85,8 @@
       "links_coletados": [
         "https://br.pinterest.com/pin/339388521948533378/"
       ],
-      "sha256": "59e752a76516c6a428ea29881bed0d3146bfe93339f5f0c0e266500d0b9a5333"
+      "sha256": "59e752a76516c6a428ea29881bed0d3146bfe93339f5f0c0e266500d0b9a5333",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "01 · Identidade visual e tipografia",
@@ -90,7 +97,8 @@
       "links_coletados": [
         "https://br.pinterest.com/pin/339388521948533377/"
       ],
-      "sha256": "205d430887f8b4a68556eb5b7bed52c4dc25f32e65f2534ed03cf5cb165185eb"
+      "sha256": "205d430887f8b4a68556eb5b7bed52c4dc25f32e65f2534ed03cf5cb165185eb",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "01 · Identidade visual e tipografia",
@@ -101,7 +109,8 @@
       "links_coletados": [
         "https://br.pinterest.com/pin/339388521948530382/"
       ],
-      "sha256": "8be9535b209db9f68d1958b03abcfd835be88eb73e256aef1ccd0e59ad6da170"
+      "sha256": "8be9535b209db9f68d1958b03abcfd835be88eb73e256aef1ccd0e59ad6da170",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "01 · Identidade visual e tipografia",
@@ -112,7 +121,8 @@
       "links_coletados": [
         "https://br.pinterest.com/pin/339388521948530381/"
       ],
-      "sha256": "483140f59d19abe1b3c9257f33bc61b67f79ca4bbec59d5df571a0d04344490a"
+      "sha256": "483140f59d19abe1b3c9257f33bc61b67f79ca4bbec59d5df571a0d04344490a",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "01 · Identidade visual e tipografia",
@@ -123,7 +133,8 @@
       "links_coletados": [
         "https://br.pinterest.com/pin/339388521948530371/"
       ],
-      "sha256": "7709d30b2ab4ded76edc86d044eabc5063c56a61ae2e0bdde7df6d1148f887bd"
+      "sha256": "7709d30b2ab4ded76edc86d044eabc5063c56a61ae2e0bdde7df6d1148f887bd",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "01 · Identidade visual e tipografia",
@@ -134,7 +145,8 @@
       "links_coletados": [
         "https://br.pinterest.com/pin/339388521948530370/"
       ],
-      "sha256": "1f0576440968b980998fd0153b27b91c7fdd22bf5e62a1a4007c4541f2d34543"
+      "sha256": "1f0576440968b980998fd0153b27b91c7fdd22bf5e62a1a4007c4541f2d34543",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "01 · Identidade visual e tipografia",
@@ -145,7 +157,8 @@
       "links_coletados": [
         "https://br.pinterest.com/pin/339388521948530367/"
       ],
-      "sha256": "72f8d36989684e46482ba85e202477cadab8e2823fed8f2d1ff95ee81dbcb8bb"
+      "sha256": "72f8d36989684e46482ba85e202477cadab8e2823fed8f2d1ff95ee81dbcb8bb",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "01 · Identidade visual e tipografia",
@@ -156,7 +169,8 @@
       "links_coletados": [
         "https://br.pinterest.com/pin/339388521948530243/"
       ],
-      "sha256": "d94e4ca3fe4b54472e6cb79d4a084d037113c4d0af12436d588971a303659689"
+      "sha256": "d94e4ca3fe4b54472e6cb79d4a084d037113c4d0af12436d588971a303659689",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "01 · Identidade visual e tipografia",
@@ -167,7 +181,8 @@
       "links_coletados": [
         "https://br.pinterest.com/pin/339388521948525571/"
       ],
-      "sha256": "23076ee4c559c6c87e36381f5af6ff7019bbb78759a793af6c02eb3eed21d3ab"
+      "sha256": "23076ee4c559c6c87e36381f5af6ff7019bbb78759a793af6c02eb3eed21d3ab",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "01 · Identidade visual e tipografia",
@@ -178,7 +193,8 @@
       "links_coletados": [
         "https://br.pinterest.com/pin/339388521948518696/"
       ],
-      "sha256": "f16268e49013c2a49bd19fe8dcceb00ec8fa084b83a8bdbc72e39064ca338e8b"
+      "sha256": "f16268e49013c2a49bd19fe8dcceb00ec8fa084b83a8bdbc72e39064ca338e8b",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "02 · Cores, padrões e grafismos",
@@ -189,7 +205,8 @@
       "links_coletados": [
         "https://i.pinimg.com/736x/84/43/13/844313bd4019409234548323e5dfb2f7.jpg"
       ],
-      "sha256": "e32346b0ab37d98a423d5a8cb056e71c7bf55bc4c6fa6f9362151fd5b9607a12"
+      "sha256": "e32346b0ab37d98a423d5a8cb056e71c7bf55bc4c6fa6f9362151fd5b9607a12",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "02 · Cores, padrões e grafismos",
@@ -200,7 +217,8 @@
       "links_coletados": [
         "https://i.pinimg.com/736x/72/b7/46/72b746e40c3c2b2642654b0c0ac77162.jpg"
       ],
-      "sha256": "05be05af616e2b436909399aa619c949d191e48842e68a71261268f40e815580"
+      "sha256": "05be05af616e2b436909399aa619c949d191e48842e68a71261268f40e815580",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "02 · Cores, padrões e grafismos",
@@ -211,7 +229,8 @@
       "links_coletados": [
         "https://i.pinimg.com/736x/e3/3a/c9/e33ac9eb334a7de870e9ab0b64275d81.jpg"
       ],
-      "sha256": "024afa24a9eb1e7d1fd69d5483f7a95765e64904410b3967386f751e83c8649e"
+      "sha256": "024afa24a9eb1e7d1fd69d5483f7a95765e64904410b3967386f751e83c8649e",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "02 · Cores, padrões e grafismos",
@@ -222,7 +241,8 @@
       "links_coletados": [
         "https://i.pinimg.com/736x/8b/f6/80/8bf680bbd380bcec6220f0f1677a3705.jpg"
       ],
-      "sha256": "248df8c9653c936d25779a3a5788a5207bf723d37ed304574d36d3ac2d89603f"
+      "sha256": "248df8c9653c936d25779a3a5788a5207bf723d37ed304574d36d3ac2d89603f",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "02 · Cores, padrões e grafismos",
@@ -233,7 +253,8 @@
       "links_coletados": [
         "https://i.pinimg.com/736x/a2/1f/99/a21f99f4080d685a2a716d8c299f01cd.jpg"
       ],
-      "sha256": "fe1a580a35874a869d0d0217fdd93a04031174d141a870a1e98af163b700e00d"
+      "sha256": "fe1a580a35874a869d0d0217fdd93a04031174d141a870a1e98af163b700e00d",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "02 · Cores, padrões e grafismos",
@@ -244,7 +265,8 @@
       "links_coletados": [
         "https://br.pinterest.com/pin/339388521948528491/"
       ],
-      "sha256": "d8768a46867e80e8fa95daa3c7720dcd6cae2305703a6fa31784f4fd13707867"
+      "sha256": "d8768a46867e80e8fa95daa3c7720dcd6cae2305703a6fa31784f4fd13707867",
+      "presente_no_figma_em_2026_10_22": false
     },
     {
       "categoria": "02 · Cores, padrões e grafismos",
@@ -255,7 +277,8 @@
       "links_coletados": [
         "https://br.pinterest.com/pin/339388521948528485/"
       ],
-      "sha256": "15e3242dc3d6dfb794ba6107c389931b14d528241243f8ef92ab5bcc5e00bb93"
+      "sha256": "15e3242dc3d6dfb794ba6107c389931b14d528241243f8ef92ab5bcc5e00bb93",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "02 · Cores, padrões e grafismos",
@@ -266,7 +289,8 @@
       "links_coletados": [
         "https://br.pinterest.com/pin/339388521948528484/"
       ],
-      "sha256": "4b4a448c4d4cb2395e398bfd5af5eb81fef41159b4a767d8ac5f7226a16d9500"
+      "sha256": "4b4a448c4d4cb2395e398bfd5af5eb81fef41159b4a767d8ac5f7226a16d9500",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "02 · Cores, padrões e grafismos",
@@ -277,7 +301,8 @@
       "links_coletados": [
         "https://br.pinterest.com/pin/339388521948525593/"
       ],
-      "sha256": "a8ed92ff6e76f5297c2f720852fc7be24523cb1cf731c1fd6ef068cef66bed96"
+      "sha256": "a8ed92ff6e76f5297c2f720852fc7be24523cb1cf731c1fd6ef068cef66bed96",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "02 · Cores, padrões e grafismos",
@@ -288,7 +313,8 @@
       "links_coletados": [
         "https://br.pinterest.com/pin/339388521948525582/"
       ],
-      "sha256": "cd723cd62cebdd8f729a1aad2a720ff759ae6f809444be2b8fb5707a7d818c23"
+      "sha256": "cd723cd62cebdd8f729a1aad2a720ff759ae6f809444be2b8fb5707a7d818c23",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "02 · Cores, padrões e grafismos",
@@ -297,7 +323,8 @@
       "origem": "paletas",
       "url_imagem_coletada": null,
       "links_coletados": [],
-      "sha256": "98e0bb6413db0e8884a07c110d05514699bd8a2b31f9c10b9884407af1f5bea4"
+      "sha256": "98e0bb6413db0e8884a07c110d05514699bd8a2b31f9c10b9884407af1f5bea4",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "02 · Cores, padrões e grafismos",
@@ -306,7 +333,8 @@
       "origem": "paletas",
       "url_imagem_coletada": null,
       "links_coletados": [],
-      "sha256": "8243d00edded46ece778b32cdacbcb5b13b71baddf9b2e247ded2cacc43555c2"
+      "sha256": "8243d00edded46ece778b32cdacbcb5b13b71baddf9b2e247ded2cacc43555c2",
+      "presente_no_figma_em_2026_10_22": false
     },
     {
       "categoria": "02 · Cores, padrões e grafismos",
@@ -315,7 +343,8 @@
       "origem": "paletas",
       "url_imagem_coletada": null,
       "links_coletados": [],
-      "sha256": "ad772b6b963109c8fb8d195e5f3125f9fe8696128306f331fc4d35c18682b6cd"
+      "sha256": "ad772b6b963109c8fb8d195e5f3125f9fe8696128306f331fc4d35c18682b6cd",
+      "presente_no_figma_em_2026_10_22": false
     },
     {
       "categoria": "02 · Cores, padrões e grafismos",
@@ -324,7 +353,8 @@
       "origem": "paletas",
       "url_imagem_coletada": null,
       "links_coletados": [],
-      "sha256": "0526beae166282deb5dcb0b29cc14cf2a930c4a1facbfe0afe0d262ce3e2bed2"
+      "sha256": "0526beae166282deb5dcb0b29cc14cf2a930c4a1facbfe0afe0d262ce3e2bed2",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "02 · Cores, padrões e grafismos",
@@ -333,7 +363,8 @@
       "origem": "paletas",
       "url_imagem_coletada": null,
       "links_coletados": [],
-      "sha256": "0deaf8a756b3cb4224226f1791de8662dc207a8f8fce7146d33c31e058e376d4"
+      "sha256": "0deaf8a756b3cb4224226f1791de8662dc207a8f8fce7146d33c31e058e376d4",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "02 · Cores, padrões e grafismos",
@@ -342,7 +373,8 @@
       "origem": "paletas",
       "url_imagem_coletada": null,
       "links_coletados": [],
-      "sha256": "407b71d3b8f4772cc1005fef8dc4d1fc015d56cbbddc9023db57d4bb45b7070f"
+      "sha256": "407b71d3b8f4772cc1005fef8dc4d1fc015d56cbbddc9023db57d4bb45b7070f",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "02 · Cores, padrões e grafismos",
@@ -351,7 +383,8 @@
       "origem": "paletas",
       "url_imagem_coletada": null,
       "links_coletados": [],
-      "sha256": "81a6e281420af712b62bf16f3dab3ada2fa610d83eed62be0fb8c1cade3255eb"
+      "sha256": "81a6e281420af712b62bf16f3dab3ada2fa610d83eed62be0fb8c1cade3255eb",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "02 · Cores, padrões e grafismos",
@@ -360,7 +393,8 @@
       "origem": "paletas",
       "url_imagem_coletada": null,
       "links_coletados": [],
-      "sha256": "a06e83b110bf3b849adcc3aedebf45848dbce82428bfa257136d1b3a84051b00"
+      "sha256": "a06e83b110bf3b849adcc3aedebf45848dbce82428bfa257136d1b3a84051b00",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "02 · Cores, padrões e grafismos",
@@ -369,7 +403,8 @@
       "origem": "paletas",
       "url_imagem_coletada": null,
       "links_coletados": [],
-      "sha256": "6523643e2a068402674276ee1b78fb9199b71c175b96b21ae229130b98c49314"
+      "sha256": "6523643e2a068402674276ee1b78fb9199b71c175b96b21ae229130b98c49314",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "02 · Cores, padrões e grafismos",
@@ -378,7 +413,8 @@
       "origem": "paletas",
       "url_imagem_coletada": null,
       "links_coletados": [],
-      "sha256": "7ab9790bd160a4ab21ffad0c80e42893423a2c7c8a7a32ad11afa5c8e1f2ed01"
+      "sha256": "7ab9790bd160a4ab21ffad0c80e42893423a2c7c8a7a32ad11afa5c8e1f2ed01",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "03 · Ilustração e colagem",
@@ -389,7 +425,8 @@
       "links_coletados": [
         "https://i.pinimg.com/736x/9b/77/a6/9b77a651657e95ba6d2ae5e9296a9e1f.jpg"
       ],
-      "sha256": "7fff64c5ee7d216a1f5416124cc80bfd8f3a27231e2863cd48bf89518ac6b8b7"
+      "sha256": "7fff64c5ee7d216a1f5416124cc80bfd8f3a27231e2863cd48bf89518ac6b8b7",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "03 · Ilustração e colagem",
@@ -400,7 +437,8 @@
       "links_coletados": [
         "https://i.pinimg.com/736x/e1/8e/fb/e18efbe9a3f3c878c79dda34ae27776e.jpg"
       ],
-      "sha256": "e1275c7f6f175ea56697f8da984aab0fad2a88a3301d69dafd050b7a4ca87fe9"
+      "sha256": "e1275c7f6f175ea56697f8da984aab0fad2a88a3301d69dafd050b7a4ca87fe9",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "03 · Ilustração e colagem",
@@ -411,7 +449,8 @@
       "links_coletados": [
         "https://i.pinimg.com/736x/e1/26/e2/e126e2f0ac428cb6c8b3727ad811ac0c.jpg"
       ],
-      "sha256": "fe17f8a3a00d2590c45486351daf6f4997ba320fa8138187e3af94c1c6a36d04"
+      "sha256": "fe17f8a3a00d2590c45486351daf6f4997ba320fa8138187e3af94c1c6a36d04",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "03 · Ilustração e colagem",
@@ -422,7 +461,8 @@
       "links_coletados": [
         "https://i.pinimg.com/736x/0a/ff/8a/0aff8a3889f95a6af7e051967481c432.jpg"
       ],
-      "sha256": "4faaaa56bee652629ac623579d90917fc444cea50d159429414d539c9d6be16c"
+      "sha256": "4faaaa56bee652629ac623579d90917fc444cea50d159429414d539c9d6be16c",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "03 · Ilustração e colagem",
@@ -433,7 +473,8 @@
       "links_coletados": [
         "https://i.pinimg.com/736x/b2/2d/b5/b22db54684762f826c9581ab1645b417.jpg"
       ],
-      "sha256": "8e1d0da8deb81b177d4941cc050b00bf654a3cee0a338858c7b4664a35545f10"
+      "sha256": "8e1d0da8deb81b177d4941cc050b00bf654a3cee0a338858c7b4664a35545f10",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "03 · Ilustração e colagem",
@@ -444,7 +485,8 @@
       "links_coletados": [
         "https://i.pinimg.com/736x/08/e3/bb/08e3bbfd68511de8e5366d2088b7095f.jpg"
       ],
-      "sha256": "b5bf4f21dead3df0fee62781df7b7d8c14e4296b889d6548ad764f66e700f4b3"
+      "sha256": "b5bf4f21dead3df0fee62781df7b7d8c14e4296b889d6548ad764f66e700f4b3",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "03 · Ilustração e colagem",
@@ -455,7 +497,8 @@
       "links_coletados": [
         "https://i.pinimg.com/736x/31/14/fb/3114fb773b4d0d4bb9890cc00508d2c8.jpg"
       ],
-      "sha256": "229a766a61a1ab97ff151447b92cbcaddd3a952a8475ff19fca240e1038a1e8a"
+      "sha256": "229a766a61a1ab97ff151447b92cbcaddd3a952a8475ff19fca240e1038a1e8a",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "03 · Ilustração e colagem",
@@ -466,7 +509,8 @@
       "links_coletados": [
         "https://br.pinterest.com/pin/339388521948525569/"
       ],
-      "sha256": "763830831c42593d4fb85fc8218116c9171b59074b2a6bd4e5280686063913d5"
+      "sha256": "763830831c42593d4fb85fc8218116c9171b59074b2a6bd4e5280686063913d5",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "03 · Ilustração e colagem",
@@ -477,7 +521,8 @@
       "links_coletados": [
         "https://br.pinterest.com/pin/339388521948518713/"
       ],
-      "sha256": "1b009dd916dce45601d834fa028aca5468e7b5e98485a4281bfa1e91de40b25c"
+      "sha256": "1b009dd916dce45601d834fa028aca5468e7b5e98485a4281bfa1e91de40b25c",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "03 · Ilustração e colagem",
@@ -488,7 +533,8 @@
       "links_coletados": [
         "https://br.pinterest.com/pin/339388521948518713/"
       ],
-      "sha256": "da99068be77d032022ac35499ad8d6127bb25c6d4c2024e01906d496bc113236"
+      "sha256": "da99068be77d032022ac35499ad8d6127bb25c6d4c2024e01906d496bc113236",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "04 · Styling, pijamas e poses",
@@ -499,7 +545,8 @@
       "links_coletados": [
         "https://i.pinimg.com/736x/73/90/65/7390650374a981747f9ad0351da8b158.jpg"
       ],
-      "sha256": "612bcc1329f74f8d9e95e629cd9e6aa3a3095f208148e2a12ea97df229625c23"
+      "sha256": "612bcc1329f74f8d9e95e629cd9e6aa3a3095f208148e2a12ea97df229625c23",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "04 · Styling, pijamas e poses",
@@ -510,7 +557,8 @@
       "links_coletados": [
         "https://i.pinimg.com/736x/18/d5/70/18d57030f38a201da32a6a10250b7bd0.jpg"
       ],
-      "sha256": "bb6094e2bfd31a89593a373a99cccab709a6d1152711e150b156fd30ae22bcbc"
+      "sha256": "bb6094e2bfd31a89593a373a99cccab709a6d1152711e150b156fd30ae22bcbc",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "04 · Styling, pijamas e poses",
@@ -521,7 +569,8 @@
       "links_coletados": [
         "https://i.pinimg.com/736x/6a/ff/fe/6afffec9d25c147c2acf5e7affb2e69e.jpg"
       ],
-      "sha256": "20252cf8dcabf07c31c54ec3fc35893d5beaa94124b991c5f138ea3e0d3919e1"
+      "sha256": "20252cf8dcabf07c31c54ec3fc35893d5beaa94124b991c5f138ea3e0d3919e1",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "04 · Styling, pijamas e poses",
@@ -532,7 +581,8 @@
       "links_coletados": [
         "https://i.pinimg.com/736x/7d/a6/12/7da6121c2babdfb79ad81639eaa2dd6b.jpg"
       ],
-      "sha256": "853b8e4a52543e0d03ea43d869b152d86961b6ee541428c7af888abca6e4d52d"
+      "sha256": "853b8e4a52543e0d03ea43d869b152d86961b6ee541428c7af888abca6e4d52d",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "04 · Styling, pijamas e poses",
@@ -543,7 +593,8 @@
       "links_coletados": [
         "https://i.pinimg.com/736x/88/32/01/883201f2d7dec986fe374f2bbed093cd.jpg"
       ],
-      "sha256": "688fe2139c4173d879fb97ec71a98c8d82a4831eb1a47a854338df180eb08dc2"
+      "sha256": "688fe2139c4173d879fb97ec71a98c8d82a4831eb1a47a854338df180eb08dc2",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "04 · Styling, pijamas e poses",
@@ -554,7 +605,8 @@
       "links_coletados": [
         "https://br.pinterest.com/pin/602989837657044620/"
       ],
-      "sha256": "a3b2d118d6202eab15c397a286e292816260e3acb434585a82a848e77e222f00"
+      "sha256": "a3b2d118d6202eab15c397a286e292816260e3acb434585a82a848e77e222f00",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "04 · Styling, pijamas e poses",
@@ -565,7 +617,8 @@
       "links_coletados": [
         "https://br.pinterest.com/pin/602989837657017819/"
       ],
-      "sha256": "e6ea418fc19dbc46cb09aa0b84b852fdf070e775083b703ddc3b012521792584"
+      "sha256": "e6ea418fc19dbc46cb09aa0b84b852fdf070e775083b703ddc3b012521792584",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "04 · Styling, pijamas e poses",
@@ -574,7 +627,8 @@
       "origem": "pijamas",
       "url_imagem_coletada": null,
       "links_coletados": [],
-      "sha256": "7d76bec6b6cdbe748f392fecf4d5a6bc724c220fa9dde29a05c4e54cd05cd8da"
+      "sha256": "7d76bec6b6cdbe748f392fecf4d5a6bc724c220fa9dde29a05c4e54cd05cd8da",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "04 · Styling, pijamas e poses",
@@ -583,7 +637,8 @@
       "origem": "pijamas",
       "url_imagem_coletada": null,
       "links_coletados": [],
-      "sha256": "b7f38b82cc84e86932bb4cabc5db48f28e5e85b8eadfe2ba49bbb08ff749147d"
+      "sha256": "b7f38b82cc84e86932bb4cabc5db48f28e5e85b8eadfe2ba49bbb08ff749147d",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "04 · Styling, pijamas e poses",
@@ -592,7 +647,8 @@
       "origem": "pijamas",
       "url_imagem_coletada": null,
       "links_coletados": [],
-      "sha256": "724b882d74987bc54753f0ba26b22e11acc75b54166539421447614ad3051388"
+      "sha256": "724b882d74987bc54753f0ba26b22e11acc75b54166539421447614ad3051388",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "04 · Styling, pijamas e poses",
@@ -601,7 +657,8 @@
       "origem": "pijamas",
       "url_imagem_coletada": null,
       "links_coletados": [],
-      "sha256": "2ba7a3e7b1d207a11973c70159dc075d3315ea46cf70571c4ced3ce3586ed0d7"
+      "sha256": "2ba7a3e7b1d207a11973c70159dc075d3315ea46cf70571c4ced3ce3586ed0d7",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "05 · Cenário e decoração",
@@ -612,7 +669,8 @@
       "links_coletados": [
         "https://i.pinimg.com/736x/17/0e/c4/170ec44c65ebbdfed62d9996109d8a70.jpg"
       ],
-      "sha256": "96eef96731a8976edaa6f21803344bcf06efe68a9791d5cdfbc5c3f2e6410bd3"
+      "sha256": "96eef96731a8976edaa6f21803344bcf06efe68a9791d5cdfbc5c3f2e6410bd3",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "05 · Cenário e decoração",
@@ -623,7 +681,8 @@
       "links_coletados": [
         "https://i.pinimg.com/736x/61/e3/44/61e344c9a74e652c59f4544cd5c5d305.jpg"
       ],
-      "sha256": "ff133abd5a22898406b1cd8592c25b2423b2178dae9ff998f9f0af2fc76f118d"
+      "sha256": "ff133abd5a22898406b1cd8592c25b2423b2178dae9ff998f9f0af2fc76f118d",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "05 · Cenário e decoração",
@@ -634,7 +693,8 @@
       "links_coletados": [
         "https://i.pinimg.com/736x/e4/bd/dd/e4bddd7aed55dd8c9ee4f76b32b4e2bf.jpg"
       ],
-      "sha256": "0ea65b84d2f42a16fd47cf160f3fc300f0b718701f9cb19db1d6b36303981d85"
+      "sha256": "0ea65b84d2f42a16fd47cf160f3fc300f0b718701f9cb19db1d6b36303981d85",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "05 · Cenário e decoração",
@@ -645,7 +705,8 @@
       "links_coletados": [
         "https://br.pinterest.com/pin/339388521948518366/"
       ],
-      "sha256": "0f3507d107a760666bbe2b8c74e6545a9079cc4050fd5cdc62acfd262b314ca4"
+      "sha256": "0f3507d107a760666bbe2b8c74e6545a9079cc4050fd5cdc62acfd262b314ca4",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "05 · Cenário e decoração",
@@ -656,7 +717,8 @@
       "links_coletados": [
         "https://br.pinterest.com/pin/339388521948518357/"
       ],
-      "sha256": "05c1304cba179543a83b2aee14eaddb4c1da320913450fcf1e7e7ee7af9afdcb"
+      "sha256": "05c1304cba179543a83b2aee14eaddb4c1da320913450fcf1e7e7ee7af9afdcb",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "05 · Cenário e decoração",
@@ -667,7 +729,8 @@
       "links_coletados": [
         "https://br.pinterest.com/pin/339388521948518349/"
       ],
-      "sha256": "3eabf3e2a9e21e24fdb374b3e67937dc4d0622b750ad210dacae1679609843cb"
+      "sha256": "3eabf3e2a9e21e24fdb374b3e67937dc4d0622b750ad210dacae1679609843cb",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "05 · Cenário e decoração",
@@ -678,7 +741,8 @@
       "links_coletados": [
         "https://br.pinterest.com/pin/339388521948518347/"
       ],
-      "sha256": "c412b89f559e772d1a05ba4d928c502ae5d35311c634fa775afb8978120d5599"
+      "sha256": "c412b89f559e772d1a05ba4d928c502ae5d35311c634fa775afb8978120d5599",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "05 · Cenário e decoração",
@@ -689,7 +753,8 @@
       "links_coletados": [
         "https://br.pinterest.com/pin/339388521948518345/"
       ],
-      "sha256": "397248ffe1c3ccf3ccc5a21f120130c5c35af5ce772f9fbeb1724ea008281002"
+      "sha256": "397248ffe1c3ccf3ccc5a21f120130c5c35af5ce772f9fbeb1724ea008281002",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "05 · Cenário e decoração",
@@ -700,7 +765,8 @@
       "links_coletados": [
         "https://br.pinterest.com/pin/339388521948518343/"
       ],
-      "sha256": "ef5454b0eb6589f88cef987bb12b7b5eef83060e0c5026852b48de6a82e8bd86"
+      "sha256": "ef5454b0eb6589f88cef987bb12b7b5eef83060e0c5026852b48de6a82e8bd86",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "06 · Livros e rotina de leitura",
@@ -711,7 +777,8 @@
       "links_coletados": [
         "https://i.pinimg.com/736x/8c/a1/dd/8ca1ddd50a7f8052ce18e1f851128d67.jpg"
       ],
-      "sha256": "7ae0fe51e030cc8e20432d4a04fc0b0b629538f8b9d3c1103df6f6599f4ccab1"
+      "sha256": "7ae0fe51e030cc8e20432d4a04fc0b0b629538f8b9d3c1103df6f6599f4ccab1",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "06 · Livros e rotina de leitura",
@@ -722,7 +789,8 @@
       "links_coletados": [
         "https://i.pinimg.com/736x/57/12/e6/5712e65e4af392e305eb694f0121847e.jpg"
       ],
-      "sha256": "67ccf7bc29315a84185d8f7e35d89ff3ca11141d80240581e30a31c36e06a049"
+      "sha256": "67ccf7bc29315a84185d8f7e35d89ff3ca11141d80240581e30a31c36e06a049",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "06 · Livros e rotina de leitura",
@@ -733,7 +801,8 @@
       "links_coletados": [
         "https://i.pinimg.com/736x/18/71/04/1871049bd34c959ab0f166bd4b594fa5.jpg"
       ],
-      "sha256": "271fa8abc856a4de1a9f1450cc24961c176c3430d2923e3a1056722c0bbf788a"
+      "sha256": "271fa8abc856a4de1a9f1450cc24961c176c3430d2923e3a1056722c0bbf788a",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "06 · Livros e rotina de leitura",
@@ -744,7 +813,8 @@
       "links_coletados": [
         "https://br.pinterest.com/pin/339388521948519463/"
       ],
-      "sha256": "6af18e3997848e47a1c7008451e9b92d4db567331a33087752acec0993586fb1"
+      "sha256": "6af18e3997848e47a1c7008451e9b92d4db567331a33087752acec0993586fb1",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "06 · Livros e rotina de leitura",
@@ -755,7 +825,8 @@
       "links_coletados": [
         "https://br.pinterest.com/pin/339388521948518339/"
       ],
-      "sha256": "4f60e4106a6920eb0c9251f9eb1ea828a7c81c7a6231d404f1b04714dca94513"
+      "sha256": "4f60e4106a6920eb0c9251f9eb1ea828a7c81c7a6231d404f1b04714dca94513",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "07 · Objetos e aplicações de marca",
@@ -766,7 +837,8 @@
       "links_coletados": [
         "https://i.pinimg.com/736x/0f/f9/f4/0ff9f45a02e32681e484e8fd793b844d.jpg"
       ],
-      "sha256": "eb9969eb024a5cfc7f8570ffa7481c9dbaa7afc49aeb6ba5b7bcd83032949b07"
+      "sha256": "eb9969eb024a5cfc7f8570ffa7481c9dbaa7afc49aeb6ba5b7bcd83032949b07",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "07 · Objetos e aplicações de marca",
@@ -777,7 +849,8 @@
       "links_coletados": [
         "https://i.pinimg.com/736x/5e/7a/ea/5e7aeab40ae805366257f7c4dd68c5d0.jpg"
       ],
-      "sha256": "e82a3061c05f6dfd89e0c3db65e4b8cfd72365677798056fa445d091fd39628f"
+      "sha256": "e82a3061c05f6dfd89e0c3db65e4b8cfd72365677798056fa445d091fd39628f",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "07 · Objetos e aplicações de marca",
@@ -788,7 +861,8 @@
       "links_coletados": [
         "https://i.pinimg.com/736x/e6/9e/1a/e69e1a343bff66db7f3e9f7781450a3c.jpg"
       ],
-      "sha256": "fd08a6995398a6daeca7098b67dcc04c5f21b0521c3b2b14cecf7630ffdfe7ce"
+      "sha256": "fd08a6995398a6daeca7098b67dcc04c5f21b0521c3b2b14cecf7630ffdfe7ce",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "07 · Objetos e aplicações de marca",
@@ -799,7 +873,8 @@
       "links_coletados": [
         "https://i.pinimg.com/736x/61/24/17/612417ef00c0c1ceed669d086a606f57.jpg"
       ],
-      "sha256": "204a7abc70f34a7b4131fa69a91b4345116786071f5398d69a4b20fa64693a23"
+      "sha256": "204a7abc70f34a7b4131fa69a91b4345116786071f5398d69a4b20fa64693a23",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "07 · Objetos e aplicações de marca",
@@ -810,7 +885,8 @@
       "links_coletados": [
         "https://i.pinimg.com/736x/04/d9/7e/04d97e35d7641ffb1f2aeb151d130646.jpg"
       ],
-      "sha256": "062f9300b6a1c41b86f11aa3e3dd657a48b6880990c96c9be2a53b3d70792375"
+      "sha256": "062f9300b6a1c41b86f11aa3e3dd657a48b6880990c96c9be2a53b3d70792375",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "07 · Objetos e aplicações de marca",
@@ -821,7 +897,8 @@
       "links_coletados": [
         "https://br.pinterest.com/pin/602989837657044584/"
       ],
-      "sha256": "41dc091f54a94502d59de177fad4e0678511303be06536e181ce73b9edcca27f"
+      "sha256": "41dc091f54a94502d59de177fad4e0678511303be06536e181ce73b9edcca27f",
+      "presente_no_figma_em_2026_10_22": true
     },
     {
       "categoria": "07 · Objetos e aplicações de marca",
@@ -832,7 +909,10 @@
       "links_coletados": [
         "https://br.pinterest.com/pin/602989837657044564/"
       ],
-      "sha256": "81ad54a261ef611eddafff4cbaf7dbc9b02a6f1822d55f91e918b274aa266d60"
+      "sha256": "81ad54a261ef611eddafff4cbaf7dbc9b02a6f1822d55f91e918b274aa266d60",
+      "presente_no_figma_em_2026_10_22": true
     }
-  ]
+  ],
+  "total_imagens_no_figma": 75,
+  "nota_total": "78 arquivos arquivados; 75 presentes no moodboard inspecionado em 22/10. Ausência não significa exclusão do arquivo histórico."
 }

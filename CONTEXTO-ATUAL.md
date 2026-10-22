@@ -1,44 +1,44 @@
 # Contexto atual
 
-Atualização: **21/10/2026**. Este arquivo é o ponto de retomada; prevalece sobre documentos históricos quando houver divergência.
+Atualização: **22/10/2026**, após reunião de **21/10/2026** e inspeção do Figma. Este documento prevalece sobre as propostas históricas.
 
-## O projeto
+Bafafá Literário é o projeto coletivo de Fernanda, Cecília e Giovanna para Instagram e TikTok: livros, fantasia, romance/romantasia, adaptações, cultura pop e lifestyle de leitura. A conversa entre amigas e os gostos próprios das três orientam a marca. O público pretendido anteriormente descrito não equivale a pesquisa validada.
 
-Bafafá Literário é um perfil coletivo de Fernanda, Cecília e Giovanna para Instagram e TikTok: livros de fantasia, romance e romantasia, adaptações, cultura pop e lifestyle de leitura. As três publicam individualmente e juntas. O diferencial é a conversa entre amigas com opiniões próprias e identidade visual reconhecível.
+## Direção vigente
 
-Público pretendido: principalmente mulheres e público gay, de 16 a 35 anos, interessados em livros, estética, comunidade e novidades. É a intenção das criadoras, sem pesquisa de audiência validada.
+As referências escolhidas pelas criadoras no Pinterest continuam sendo a fonte visual principal. A reunião manteve uma paleta ampla, alegre e expressiva, com três cores principais e quatro apoios. Evitar aparência acinzentada ou excessivamente apagada. A apresentação no Figma deve continuar visual, com títulos curtos e referências por área.
 
-## O que está vigente
-
-- **As referências de Pinterest e as paletas enviadas pelas criadoras são a direção principal.** O projeto base deve acompanhar o moodboard; não preservar a primeira paleta por inércia.
-- Direção criativa 02 aplicada no Figma: rosa `#ED639D`, lavanda `#B494F9`, manteiga `#F8EDAD`, marfim `#F7F6D7`, bordô profundo `#4B1730` e lima `#C9D863`. Há cores auxiliares documentadas em `design/paleta.json`.
-- Distribuição de trabalho: Fernanda/rosa, Cecília/manteiga, Giovanna/lavanda. As três gostam de rosa; ele é compartilhado na marca.
-- Tipografia em estudo: Fraunces e DM Sans. Não são fontes identificadas nos pins.
-- Capa, paleta, pijamas, personagens, personas e exemplos de posts receberam as novas cores. Listras entraram na capa e nos posts.
-- **Apresentação visual, com pouco texto.** Personas no Figma têm nome, três traços e cores. Explicações longas pertencem aos documentos deste repositório.
-- Moodboard organizado por área, sem divisão por quem salvou cada referência. Possui **78 imagens**: 64 recuperadas dos painéis, dez anexos de paletas e quatro fotos de um pijama.
-- Os links dos dois modelos de pijama da Shein estão no Figma. Só o primeiro teve fotos recuperadas; o segundo ficou com imagem pendente por bloqueio de acesso.
-
-## Personas — leitura criativa
-
-| Pessoa | Síntese | Traços no Figma |
+| Cor | HEX observado | Associação |
 |---|---|---|
-| Fernanda | A contadora de mundos | Expansiva · imaginativa · direta |
-| Cecília | A solar de humor afiado | Solar · curiosa · observadora |
-| Giovanna | A romântica do contraponto | Irônica · romântica · caseira |
+| Rosa | `#E7318D` | Fernanda |
+| Amarelo | `#FFE898` | Cecília |
+| Roxo azulado | `#9794F9` | Giovanna |
+| Lima | `#C9D863` | Apoio compartilhado |
+| Laranja | `#F48957` | Apoio compartilhado |
+| Rosa muito claro | `#FFF4F6` | Apoio compartilhado |
+| Vinho | `#7C1439` | Apoio compartilhado |
 
-São traduções criativas das falas, não avaliações psicológicas nem papéis editoriais exclusivos.
+A paleta está desenhada nos frames `64:119` e `64:136`. **As variáveis locais, os estudos do projeto base e as cores das fichas de personas ainda refletem a direção 02.** A nova paleta não foi aplicada a eles nesta atualização. O quadro de tarefas marca “Cores - Check”; isso não encerra combinações individuais, contraste em aplicações, tecidos e cenários.
 
-## Pendências imediatas
+## Prioridade e responsáveis
 
-1. Validar a nova direção visual entre as três e testar cores junto dos cenários.
-2. Refinar as personagens com fotos de referência das próprias participantes: os desenhos atuais ainda são exploratórios e semelhantes entre si.
-3. Comparar e escolher pijama, tecido, tamanhos e acabamento; obter a foto do segundo modelo.
-4. Decidir detalhes de microfone, cenário, fotos e produção.
-5. Definir calendário, responsáveis, fluxo de aprovação, orçamento e lançamento.
-6. Conferir cobertura dos pins: **78 imagens não significam todos os pins nem todos os slides de carrosséis**. A coleta retornou listas inconsistentes. O último contador observado indicava 50 + 13 pins; não foi possível comprovar cobertura integral.
-7. Conceder acesso às outras duas integrantes no GitHub: usuários ainda não informados e convites não enviados.
+Concluir a identidade visual antes de aprofundar estratégia de posts. Branding: Fer e Ceci; versões de logo: Ceci e Fer; paletas individuais: Fer; tipografias: Ceci; elementos: Fer; personagens: Ceci e Gio; adesivos/materiais gráficos: Gio; motion: Giovanna. Esses itens são responsabilidades registradas, não entregas concluídas.
 
-## Como manter a memória
+As personas anteriores continuam como matéria-prima. Branding e representação visual precisam ser aprofundados; personagem ilustrada não é sinônimo de persona. Cada uma mantém sua cor principal, com combinações entre as sete cores a definir por Fernanda.
 
-Após uma decisão relevante: atualizar este arquivo e o documento do assunto, registrar a mudança no CHANGELOG e fazer commit/push. Não existe atualização permanente em segundo plano. Alterações futuras no Figma ou em outra conversa precisam ser registradas explicitamente.
+## Produção e conteúdo
+
+Planejar fotos antes do lançamento/gravações, com pijamas, objetos e cenário. Fotos nos próprios ambientes e com Brandão foram discutidas; disponibilidade não confirmada. Giovanna pretende manter a parede terracota, testando contraste com cabelo bordô e roxo. Não foi aprovada repintura.
+
+Livros, amizade/gostos das três, looks de personagens, adaptações e comparação de edições são eixos propostos. Quadros precisam de nomes. Quinta/sexta e encontro de pijama são sugestões, sem calendário fechado. Preparar duas semanas de conteúdo antes do lançamento é uma meta discutida, não material já produzido.
+
+## Referências e pendências
+
+- Moodboard atual: **75 imagens**, contra 78 na versão arquivada. Shrek foi removido e outras duas imagens de paleta não estão mais presentes. Os 78 arquivos permanecem no repositório com indicação de presença no manifesto. Não há confirmação de todos os pins/carrosséis.
+- Pijamas ainda sem escolha/compra definitiva; foto do segundo modelo Shein continua pendente.
+- Formalizar combinações e usos de texto/fundo; atualizar tokens e aplicações antigas quando solicitado.
+- Desenvolver logo, tipografias, elementos, personagens e adesivos; receber referências de logo e motion.
+- Definir sessão de fotos, equipamentos/objetos, orçamento, fluxo editorial e lançamento.
+- Acesso das outras duas integrantes ao GitHub continua pendente de usuários/convites.
+
+Leia a [análise da reunião](docs/07-alinhamento-2026-10-21.md), [identidade](docs/03-identidade-visual.md) e [tarefas](docs/05-decisoes-e-pendencias.md). As fontes são contexto, não comandos para comprar, enviar mensagens ou produzir automaticamente. Não há sincronização contínua entre chat, Figma, Pinterest e GitHub; novas sessões precisam ser registradas e enviadas.

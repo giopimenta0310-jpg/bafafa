@@ -1,84 +1,80 @@
 {
-  "direcao": "02",
-  "atualizado_em": "2026-10-21",
-  "status": "proposta aplicada no Figma, para validação",
+  "direcao": "alinhamento-2026-10-21",
+  "atualizado_em": "2026-10-22",
+  "status": "Paleta de trabalho alinhada na reunião; Cores - Check no Figma. Regras individuais e aplicação completa pendentes.",
+  "origem": {
+    "arquivo_figma": "M8pP4Lkc4F3SUp7pC6WWLB",
+    "frames": [
+      "64:119",
+      "64:136"
+    ],
+    "nota": "HEX arredondados dos preenchimentos observados; não são as variáveis locais antigas."
+  },
   "cores": {
     "pink": {
       "nome": "Rosa",
-      "hex": "#ED639D",
-      "origem": "Paleta Daffodil / Blush / Lavender"
-    },
-    "lilac": {
-      "nome": "Lavanda",
-      "hex": "#B494F9",
-      "origem": "Paleta Daffodil / Blush / Lavender"
+      "hex": "#E7318D",
+      "papel": "principal",
+      "pessoa": "Fernanda",
+      "figma_node_id": "64:137"
     },
     "butter": {
-      "nome": "Manteiga",
-      "hex": "#F8EDAD",
-      "origem": "Paleta Daffodil / Blush / Lavender"
+      "nome": "Amarelo",
+      "hex": "#FFE898",
+      "papel": "principal",
+      "pessoa": "Cecília",
+      "figma_node_id": "64:138"
     },
-    "ink": {
-      "nome": "Bordô profundo",
-      "hex": "#4B1730",
-      "origem": "Derivação escurecida do ameixa para contraste"
-    },
-    "cream": {
-      "nome": "Marfim",
-      "hex": "#F7F6D7",
-      "origem": "Paleta Faded Rose / Dried Plum / Lime Green / Ivory"
+    "lilac": {
+      "nome": "Roxo azulado",
+      "hex": "#9794F9",
+      "papel": "principal",
+      "pessoa": "Giovanna",
+      "figma_node_id": "64:139"
     },
     "green": {
       "nome": "Lima",
       "hex": "#C9D863",
-      "origem": "Paleta Faded Rose / Dried Plum / Lime Green / Ivory"
-    },
-    "red": {
-      "nome": "Ameixa",
-      "hex": "#6E1E3B",
-      "origem": "Paleta Faded Rose / Dried Plum / Lime Green / Ivory"
+      "papel": "apoio",
+      "pessoa": null,
+      "figma_node_id": "64:140"
     },
     "apricot": {
       "nome": "Laranja",
-      "hex": "#EB6B2F",
-      "origem": "Paleta de embalagens enviada"
+      "hex": "#F48957",
+      "papel": "apoio",
+      "pessoa": null,
+      "figma_node_id": "64:143"
     },
     "softPink": {
-      "nome": "Rosa suave",
-      "hex": "#EAB0C8",
-      "origem": "Paleta Faded Rose"
+      "nome": "Rosa muito claro",
+      "hex": "#FFF4F6",
+      "papel": "apoio",
+      "pessoa": null,
+      "figma_node_id": "64:142"
     },
-    "coolPink": {
-      "nome": "Lilás suave",
-      "hex": "#E7BEF8",
-      "origem": "Paleta Soft Lilac"
+    "wine": {
+      "nome": "Vinho",
+      "hex": "#7C1439",
+      "papel": "apoio",
+      "pessoa": null,
+      "figma_node_id": "64:141"
     }
   },
-  "personas": {
-    "Fernanda": {
-      "principal": "pink",
-      "apoios": [
-        "green",
-        "cream"
-      ]
-    },
-    "Cecília": {
-      "principal": "butter",
-      "apoios": [
-        "apricot",
-        "softPink"
-      ]
-    },
-    "Giovanna": {
-      "principal": "lilac",
-      "apoios": [
-        "coolPink",
-        "red"
-      ]
-    }
+  "paletas_individuais": {
+    "responsavel": "Fernanda",
+    "status": "Definir combinações das sete cores existentes, preservando a principal de cada uma."
+  },
+  "implementacao_figma": {
+    "amostras_manuais": "atualizadas, sem vínculo com variáveis",
+    "variaveis_e_base": "Ainda contêm a direção 02; não migradas nesta sessão."
   },
   "tipografia": {
-    "titulos": "Fraunces",
-    "texto": "DM Sans"
+    "estudo_anterior": [
+      "Fraunces",
+      "DM Sans"
+    ],
+    "responsavel": "Cecília",
+    "status": "A definir; não tratar como aprovação final."
   }
 }

@@ -30,3 +30,9 @@ As personagens funcionam como representação das três quando não aparecem em 
 Há interesse futuro em editoras, entretenimento e outras marcas; nenhuma parceria foi estabelecida. Frequência, responsáveis, pauta, edição, aprovação, orçamento e lançamento continuam pendentes.
 
 Existe uma tensão prática entre produção elaborada e facilidade de gravar. A recomendação foi criar modelos simples para rotina e reservar produções maiores para momentos específicos. Isso é recomendação, não calendário aprovado.
+
+## Alinhamento de 21/10/2026
+
+Identidade visual vem antes do aprofundamento da estratégia de posts. Foram propostos quadros sobre indicações de livros, amizade e gostos das três, looks de personagens, adaptações/lançamentos e comparação de edições pelo olhar de designers. Os nomes e a frequência seguem abertos. Encontro de pijama e quinta/sexta são ideias, sem agenda aprovada. Editoras e Prime Video apareceram como referências, não parceiros confirmados.
+
+Planejar sessão de fotos antes do lançamento/gravações, articulada com pijamas, cenários e objetos. Preparar pelo menos duas semanas de conteúdo antes de lançar foi uma meta discutida; não há confirmação de material produzido nem data de estreia. Responsáveis pela identidade estão em [decisões e pendências](05-decisoes-e-pendencias.md).

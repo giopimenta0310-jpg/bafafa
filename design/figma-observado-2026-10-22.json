@@ -1,0 +1,1537 @@
+{
+  "observado_em": "2026-10-22",
+  "file_key": "M8pP4Lkc4F3SUp7pC6WWLB",
+  "nota": "Inspeção somente leitura; valores RGB convertidos e arredondados para HEX de 8 bits.",
+  "estrutura": {
+    "pages": [
+      {
+        "id": "0:1",
+        "name": "01 · Universo Bafafá"
+      }
+    ],
+    "top": [
+      {
+        "id": "3:2",
+        "name": "Bafafá Literário · Direção criativa 02 / Pinterest",
+        "type": "FRAME",
+        "w": 1600,
+        "h": 3337
+      },
+      {
+        "id": "4:74",
+        "name": "Estudo de look / pink",
+        "type": "COMPONENT",
+        "w": 450,
+        "h": 420
+      },
+      {
+        "id": "4:107",
+        "name": "Estudo de look / Giovanna · lavanda",
+        "type": "COMPONENT",
+        "w": 450,
+        "h": 420
+      },
+      {
+        "id": "4:140",
+        "name": "Estudo de look / butter",
+        "type": "COMPONENT",
+        "w": 450,
+        "h": 420
+      },
+      {
+        "id": "15:47",
+        "name": "08 · Personas e paleta / Trilha 4",
+        "type": "FRAME",
+        "w": 1600,
+        "h": 558
+      },
+      {
+        "id": "15:90",
+        "name": "09 · Moodboard / referências por área",
+        "type": "FRAME",
+        "w": 1800,
+        "h": 9164
+      },
+      {
+        "id": "64:44",
+        "name": "Rectangle 1",
+        "type": "RECTANGLE",
+        "w": 144,
+        "h": 530
+      },
+      {
+        "id": "64:45",
+        "name": "Rectangle 2",
+        "type": "RECTANGLE",
+        "w": 144,
+        "h": 530
+      },
+      {
+        "id": "64:46",
+        "name": "Rectangle 3",
+        "type": "RECTANGLE",
+        "w": 144,
+        "h": 530
+      },
+      {
+        "id": "64:51",
+        "name": "Frame 1",
+        "type": "FRAME",
+        "w": 759,
+        "h": 398
+      },
+      {
+        "id": "57:63",
+        "name": "Rectangle 11",
+        "type": "RECTANGLE",
+        "w": 42,
+        "h": 75
+      },
+      {
+        "id": "57:71",
+        "name": "Rectangle 12",
+        "type": "RECTANGLE",
+        "w": 42,
+        "h": 75
+      },
+      {
+        "id": "68:47",
+        "name": "Rectangle 13",
+        "type": "VECTOR",
+        "w": 136,
+        "h": 319
+      },
+      {
+        "id": "57:67",
+        "name": "Rectangle 55",
+        "type": "RECTANGLE",
+        "w": 61,
+        "h": 319
+      },
+      {
+        "id": "64:126",
+        "name": "Rectangle 58",
+        "type": "RECTANGLE",
+        "w": 61,
+        "h": 319
+      },
+      {
+        "id": "64:118",
+        "name": "Group 1",
+        "type": "GROUP",
+        "w": 233,
+        "h": 148.8486328125
+      },
+      {
+        "id": "64:119",
+        "name": "Frame 2",
+        "type": "FRAME",
+        "w": 741,
+        "h": 485
+      },
+      {
+        "id": "64:136",
+        "name": "Frame 3",
+        "type": "FRAME",
+        "w": 741,
+        "h": 485
+      },
+      {
+        "id": "64:144",
+        "name": "IDV - Branding: Fer e Ceci Versões Logo: Ceci e Fer Cores - Check Paletas individuais: Fer Tipografias: Ceci Elementos: Fer Personagens: Ceci e Gio Adesivos e materiais gráficos: Gio Motion Video: Giovanna",
+        "type": "TEXT",
+        "w": 2324,
+        "h": 3037
+      },
+      {
+        "id": "71:146",
+        "name": "FOTOS - Sessão de foto Preps",
+        "type": "TEXT",
+        "w": 1259,
+        "h": 1144
+      },
+      {
+        "id": "71:145",
+        "name": "A comprar Microfone Almofada Pijama Decoração quartos Area de gravação Taças",
+        "type": "TEXT",
+        "w": 1259,
+        "h": 1898
+      }
+    ],
+    "variables": [
+      {
+        "name": "ink",
+        "values": {
+          "4:0": {
+            "r": 0.29411765933036804,
+            "g": 0.09019608050584793,
+            "b": 0.1882352977991104,
+            "a": 1
+          }
+        }
+      },
+      {
+        "name": "cream",
+        "values": {
+          "4:0": {
+            "r": 0.9686274528503418,
+            "g": 0.9647058844566345,
+            "b": 0.843137264251709,
+            "a": 1
+          }
+        }
+      },
+      {
+        "name": "pink",
+        "values": {
+          "4:0": {
+            "r": 0.929411768913269,
+            "g": 0.38823530077934265,
+            "b": 0.615686297416687,
+            "a": 1
+          }
+        }
+      },
+      {
+        "name": "red",
+        "values": {
+          "4:0": {
+            "r": 0.4313725531101227,
+            "g": 0.11764705926179886,
+            "b": 0.23137255012989044,
+            "a": 1
+          }
+        }
+      },
+      {
+        "name": "lilac",
+        "values": {
+          "4:0": {
+            "r": 0.7058823704719543,
+            "g": 0.5803921818733215,
+            "b": 0.9764705896377563,
+            "a": 1
+          }
+        }
+      },
+      {
+        "name": "green",
+        "values": {
+          "4:0": {
+            "r": 0.7882353067398071,
+            "g": 0.8470588326454163,
+            "b": 0.38823530077934265,
+            "a": 1
+          }
+        }
+      },
+      {
+        "name": "butter",
+        "values": {
+          "4:0": {
+            "r": 0.9725490212440491,
+            "g": 0.929411768913269,
+            "b": 0.6784313917160034,
+            "a": 1
+          }
+        }
+      },
+      {
+        "name": "apricot",
+        "values": {
+          "4:0": {
+            "r": 0.9215686321258545,
+            "g": 0.41960784792900085,
+            "b": 0.18431372940540314,
+            "a": 1
+          }
+        }
+      },
+      {
+        "name": "softPink",
+        "values": {
+          "4:0": {
+            "r": 0.9176470637321472,
+            "g": 0.6901960968971252,
+            "b": 0.7843137383460999,
+            "a": 1
+          }
+        }
+      },
+      {
+        "name": "coolPink",
+        "values": {
+          "4:0": {
+            "r": 0.9058823585510254,
+            "g": 0.7450980544090271,
+            "b": 0.9725490212440491,
+            "a": 1
+          }
+        }
+      }
+    ],
+    "newTexts": [
+      {
+        "id": "64:144",
+        "parent": "0:1",
+        "text": "IDV - \nBranding: Fer e Ceci\n\nVersões Logo: Ceci e Fer\n\nCores - Check\n \nPaletas individuais: Fer\n\nTipografias: Ceci\n\nElementos: Fer \n\nPersonagens: Ceci e Gio\n\nAdesivos e materiais gráficos: Gio \n\nMotion Video: Giovanna\n\n\n\n\n\n"
+      },
+      {
+        "id": "71:146",
+        "parent": "0:1",
+        "text": "FOTOS - \n\nSessão de foto\n\nPreps\n\n\n\n\n\n"
+      },
+      {
+        "id": "71:145",
+        "parent": "0:1",
+        "text": "A comprar\n\nMicrofone\n\nAlmofada\n\nPijama\n\nDecoração quartos\nArea de gravação\n\nTaças\n\n"
+      }
+    ],
+    "colors": [
+      {
+        "id": "64:44",
+        "parent": "0:1",
+        "name": "Rectangle 1",
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.8509804010391235,
+              "g": 0.8509804010391235,
+              "b": 0.8509804010391235
+            },
+            "boundVariables": {}
+          }
+        ],
+        "children": []
+      },
+      {
+        "id": "64:45",
+        "parent": "0:1",
+        "name": "Rectangle 2",
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.8509804010391235,
+              "g": 0.8509804010391235,
+              "b": 0.8509804010391235
+            },
+            "boundVariables": {}
+          }
+        ],
+        "children": []
+      },
+      {
+        "id": "64:46",
+        "parent": "0:1",
+        "name": "Rectangle 3",
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.8509804010391235,
+              "g": 0.8509804010391235,
+              "b": 0.8509804010391235
+            },
+            "boundVariables": {}
+          }
+        ],
+        "children": []
+      },
+      {
+        "id": "64:51",
+        "parent": "0:1",
+        "name": "Frame 1",
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {}
+          }
+        ],
+        "children": []
+      },
+      {
+        "id": "64:123",
+        "parent": "64:51",
+        "name": "Rectangle 13",
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.7882353067398071,
+              "g": 0.8470588326454163,
+              "b": 0.38823530077934265
+            },
+            "boundVariables": {}
+          }
+        ],
+        "children": []
+      },
+      {
+        "id": "64:124",
+        "parent": "64:51",
+        "name": "Rectangle 14",
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.48793908953666687,
+              "g": 0.07936844229698181,
+              "b": 0.22236818075180054
+            },
+            "boundVariables": {}
+          }
+        ],
+        "children": []
+      },
+      {
+        "id": "64:125",
+        "parent": "64:51",
+        "name": "Rectangle 57",
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 0.9567307829856873,
+              "b": 0.963942289352417
+            },
+            "boundVariables": {}
+          }
+        ],
+        "children": []
+      },
+      {
+        "id": "64:126",
+        "parent": "0:1",
+        "name": "Rectangle 58",
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.9567307829856873,
+              "g": 0.5370845198631287,
+              "b": 0.3403753638267517
+            },
+            "boundVariables": {}
+          }
+        ],
+        "children": []
+      },
+      {
+        "id": "64:105",
+        "parent": "64:118",
+        "name": "Rectangle 59",
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.8509804010391235,
+              "g": 0.8509804010391235,
+              "b": 0.8509804010391235
+            },
+            "boundVariables": {}
+          }
+        ],
+        "children": []
+      },
+      {
+        "id": "64:106",
+        "parent": "64:118",
+        "name": "Rectangle 60",
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.674403727054596,
+              "g": 0.8364289402961731,
+              "b": 0.9236732125282288
+            },
+            "boundVariables": {}
+          }
+        ],
+        "children": []
+      },
+      {
+        "id": "64:107",
+        "parent": "64:118",
+        "name": "Rectangle 61",
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.29411765933036804,
+              "g": 0.09019608050584793,
+              "b": 0.1882352977991104
+            },
+            "boundVariables": {}
+          }
+        ],
+        "children": []
+      },
+      {
+        "id": "64:112",
+        "parent": "64:118",
+        "name": "Ellipse 1",
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.8509804010391235,
+              "g": 0.6705882549285889,
+              "b": 0.4901961088180542
+            },
+            "boundVariables": {}
+          }
+        ],
+        "children": []
+      },
+      {
+        "id": "64:113",
+        "parent": "64:118",
+        "name": "Rectangle 67",
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.15663358569145203,
+              "g": 0.15460820496082306,
+              "b": 0.1414431929588318
+            },
+            "boundVariables": {}
+          }
+        ],
+        "children": []
+      },
+      {
+        "id": "64:116",
+        "parent": "64:118",
+        "name": "Rectangle 70",
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.15663358569145203,
+              "g": 0.15460820496082306,
+              "b": 0.1414431929588318
+            },
+            "boundVariables": {}
+          }
+        ],
+        "children": []
+      },
+      {
+        "id": "64:119",
+        "parent": "0:1",
+        "name": "Frame 2",
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.006763172801584005,
+              "g": 0.0066984533332288265,
+              "b": 0.0066984533332288265
+            },
+            "boundVariables": {}
+          }
+        ],
+        "children": []
+      },
+      {
+        "id": "64:122",
+        "parent": "64:119",
+        "name": "Rectangle 12",
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.5935947895050049,
+              "g": 0.5803921818733215,
+              "b": 0.9764705896377563
+            },
+            "boundVariables": {}
+          }
+        ],
+        "children": []
+      },
+      {
+        "id": "64:128",
+        "parent": "64:119",
+        "name": "Rectangle 7",
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.7882353067398071,
+              "g": 0.8470588326454163,
+              "b": 0.38823530077934265
+            },
+            "boundVariables": {}
+          }
+        ],
+        "children": []
+      },
+      {
+        "id": "64:131",
+        "parent": "64:119",
+        "name": "Rectangle 14",
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.48793908953666687,
+              "g": 0.07936844229698181,
+              "b": 0.22236818075180054
+            },
+            "boundVariables": {}
+          }
+        ],
+        "children": []
+      },
+      {
+        "id": "64:133",
+        "parent": "64:119",
+        "name": "Rectangle 57",
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 0.9567307829856873,
+              "b": 0.963942289352417
+            },
+            "boundVariables": {}
+          }
+        ],
+        "children": []
+      },
+      {
+        "id": "64:134",
+        "parent": "64:119",
+        "name": "Rectangle 56",
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.9567307829856873,
+              "g": 0.5370845198631287,
+              "b": 0.3403753638267517
+            },
+            "boundVariables": {}
+          }
+        ],
+        "children": []
+      },
+      {
+        "id": "64:136",
+        "parent": "0:1",
+        "name": "Frame 3",
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 1,
+              "b": 1
+            },
+            "boundVariables": {}
+          }
+        ],
+        "children": []
+      },
+      {
+        "id": "64:139",
+        "parent": "64:136",
+        "name": "Rectangle 12",
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.5935947895050049,
+              "g": 0.5803921818733215,
+              "b": 0.9764705896377563
+            },
+            "boundVariables": {}
+          }
+        ],
+        "children": []
+      },
+      {
+        "id": "64:140",
+        "parent": "64:136",
+        "name": "Rectangle 7",
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.7882353067398071,
+              "g": 0.8470588326454163,
+              "b": 0.38823530077934265
+            },
+            "boundVariables": {}
+          }
+        ],
+        "children": []
+      },
+      {
+        "id": "64:141",
+        "parent": "64:136",
+        "name": "Rectangle 14",
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.48793908953666687,
+              "g": 0.07936844229698181,
+              "b": 0.22236818075180054
+            },
+            "boundVariables": {}
+          }
+        ],
+        "children": []
+      },
+      {
+        "id": "64:142",
+        "parent": "64:136",
+        "name": "Rectangle 57",
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 1,
+              "g": 0.9567307829856873,
+              "b": 0.963942289352417
+            },
+            "boundVariables": {}
+          }
+        ],
+        "children": []
+      },
+      {
+        "id": "64:143",
+        "parent": "64:136",
+        "name": "Rectangle 56",
+        "fills": [
+          {
+            "type": "SOLID",
+            "visible": true,
+            "opacity": 1,
+            "blendMode": "NORMAL",
+            "color": {
+              "r": 0.9567307829856873,
+              "g": 0.5370845198631287,
+              "b": 0.3403753638267517
+            },
+            "boundVariables": {}
+          }
+        ],
+        "children": []
+      }
+    ],
+    "moodboardImages": 75
+  },
+  "detalhes": {
+    "manual": [
+      {
+        "id": "64:44",
+        "parent": "0:1",
+        "name": "Rectangle 1",
+        "visible": true,
+        "colors": [
+          "#D9D9D9"
+        ],
+        "bound": [
+          {}
+        ],
+        "x": 7544,
+        "y": 2851,
+        "w": 144,
+        "h": 530
+      },
+      {
+        "id": "64:45",
+        "parent": "0:1",
+        "name": "Rectangle 2",
+        "visible": true,
+        "colors": [
+          "#D9D9D9"
+        ],
+        "bound": [
+          {}
+        ],
+        "x": 7713,
+        "y": 2851,
+        "w": 144,
+        "h": 530
+      },
+      {
+        "id": "64:46",
+        "parent": "0:1",
+        "name": "Rectangle 3",
+        "visible": true,
+        "colors": [
+          "#D9D9D9"
+        ],
+        "bound": [
+          {}
+        ],
+        "x": 7882,
+        "y": 2851,
+        "w": 144,
+        "h": 530
+      },
+      {
+        "id": "64:48",
+        "parent": "64:51",
+        "name": "Rectangle 5",
+        "visible": true,
+        "colors": [
+          "#FFEF93"
+        ],
+        "bound": [
+          {}
+        ],
+        "x": 171,
+        "y": 41,
+        "w": 135,
+        "h": 319
+      },
+      {
+        "id": "68:46",
+        "parent": "64:51",
+        "name": "Rectangle 10",
+        "visible": true,
+        "colors": [
+          "#FFE898"
+        ],
+        "bound": [
+          {}
+        ],
+        "x": 171,
+        "y": 41,
+        "w": 135,
+        "h": 318
+      },
+      {
+        "id": "64:123",
+        "parent": "64:51",
+        "name": "Rectangle 13",
+        "visible": true,
+        "colors": [
+          "#C9D863"
+        ],
+        "bound": [
+          {}
+        ],
+        "x": 610,
+        "y": 41,
+        "w": 61,
+        "h": 319
+      },
+      {
+        "id": "64:124",
+        "parent": "64:51",
+        "name": "Rectangle 14",
+        "visible": true,
+        "colors": [
+          "#7C1439"
+        ],
+        "bound": [
+          {}
+        ],
+        "x": 466,
+        "y": 41,
+        "w": 61,
+        "h": 319
+      },
+      {
+        "id": "57:73",
+        "parent": "64:51",
+        "name": "Rectangle 12",
+        "visible": true,
+        "colors": [
+          "#9794F9"
+        ],
+        "bound": [
+          {}
+        ],
+        "x": 318,
+        "y": 41,
+        "w": 136,
+        "h": 319
+      },
+      {
+        "id": "64:125",
+        "parent": "64:51",
+        "name": "Rectangle 57",
+        "visible": true,
+        "colors": [
+          "#FFF4F6"
+        ],
+        "bound": [
+          {}
+        ],
+        "x": 683,
+        "y": 41,
+        "w": 61,
+        "h": 319
+      },
+      {
+        "id": "57:63",
+        "parent": "0:1",
+        "name": "Rectangle 11",
+        "visible": true,
+        "colors": [
+          "#8C1E3B"
+        ],
+        "bound": [
+          {}
+        ],
+        "x": 4670,
+        "y": 750,
+        "w": 42,
+        "h": 75
+      },
+      {
+        "id": "57:71",
+        "parent": "0:1",
+        "name": "Rectangle 12",
+        "visible": true,
+        "colors": [
+          "#6E1E3B"
+        ],
+        "bound": [
+          {}
+        ],
+        "x": 4597,
+        "y": 750,
+        "w": 42,
+        "h": 75
+      },
+      {
+        "id": "68:47",
+        "parent": "0:1",
+        "name": "Rectangle 13",
+        "visible": true,
+        "colors": [
+          "#E7318D"
+        ],
+        "bound": [
+          {}
+        ],
+        "x": 3793,
+        "y": 721,
+        "w": 136,
+        "h": 319
+      },
+      {
+        "id": "57:67",
+        "parent": "0:1",
+        "name": "Rectangle 55",
+        "visible": true,
+        "colors": [
+          "#FFF4F6"
+        ],
+        "bound": [
+          {}
+        ],
+        "x": 4811,
+        "y": 788,
+        "w": 61,
+        "h": 319
+      },
+      {
+        "id": "64:126",
+        "parent": "0:1",
+        "name": "Rectangle 58",
+        "visible": true,
+        "colors": [
+          "#F48957"
+        ],
+        "bound": [
+          {}
+        ],
+        "x": 4313,
+        "y": 721,
+        "w": 61,
+        "h": 319
+      },
+      {
+        "id": "64:105",
+        "parent": "64:118",
+        "name": "Rectangle 59",
+        "visible": true,
+        "colors": [
+          "#D9D9D9"
+        ],
+        "bound": [
+          {}
+        ],
+        "x": 3511,
+        "y": 730.0000610351562,
+        "w": 233,
+        "h": 89.58058166503906
+      },
+      {
+        "id": "64:106",
+        "parent": "64:118",
+        "name": "Rectangle 60",
+        "visible": true,
+        "colors": [
+          "#ACD5EC"
+        ],
+        "bound": [
+          {}
+        ],
+        "x": 3511,
+        "y": 730.0000610351562,
+        "w": 233,
+        "h": 89.58058166503906
+      },
+      {
+        "id": "64:107",
+        "parent": "64:118",
+        "name": "Rectangle 61",
+        "visible": true,
+        "colors": [
+          "#4B1730"
+        ],
+        "bound": [
+          {}
+        ],
+        "x": 3511,
+        "y": 805.5553588867188,
+        "w": 233,
+        "h": 73.29320526123047
+      },
+      {
+        "id": "64:108",
+        "parent": "64:118",
+        "name": "Rectangle 63",
+        "visible": true,
+        "colors": [
+          "#E7318D"
+        ],
+        "bound": [
+          {}
+        ],
+        "x": 3608.271728515625,
+        "y": 783.386474609375,
+        "w": 30.76504898071289,
+        "h": 71.93592071533203
+      },
+      {
+        "id": "64:109",
+        "parent": "64:118",
+        "name": "Rectangle 64",
+        "visible": true,
+        "colors": [
+          "#E7318D"
+        ],
+        "bound": [
+          {}
+        ],
+        "x": 3617.399658203125,
+        "y": 799.673828125,
+        "w": 11.994980812072754,
+        "h": 24.962787628173828
+      },
+      {
+        "id": "64:114",
+        "parent": "64:118",
+        "name": "Rectangle 68",
+        "visible": true,
+        "colors": [
+          "#E7318D"
+        ],
+        "bound": [
+          {}
+        ],
+        "x": 3659.927734375,
+        "y": 797.8641357421875,
+        "w": 11.994980812072754,
+        "h": 24.962787628173828
+      },
+      {
+        "id": "64:111",
+        "parent": "64:118",
+        "name": "Rectangle 66",
+        "visible": true,
+        "colors": [
+          "#D9AB7D"
+        ],
+        "bound": [
+          {}
+        ],
+        "x": 3639.036865234375,
+        "y": 873.41943359375,
+        "w": 14.02524471282959,
+        "h": 23.978639602661133
+      },
+      {
+        "id": "64:115",
+        "parent": "64:118",
+        "name": "Rectangle 69",
+        "visible": true,
+        "colors": [
+          "#D9AB7D"
+        ],
+        "bound": [
+          {}
+        ],
+        "x": 3621.8447265625,
+        "y": 873.41943359375,
+        "w": 14.02524471282959,
+        "h": 23.978639602661133
+      },
+      {
+        "id": "64:113",
+        "parent": "64:118",
+        "name": "Rectangle 67",
+        "visible": true,
+        "colors": [
+          "#282724"
+        ],
+        "bound": [
+          {}
+        ],
+        "x": 3627.376953125,
+        "y": 756.8336791992188,
+        "w": 30.76504898071289,
+        "h": 6.786407947540283
+      },
+      {
+        "id": "64:116",
+        "parent": "64:118",
+        "name": "Rectangle 70",
+        "visible": true,
+        "colors": [
+          "#282724"
+        ],
+        "bound": [
+          {}
+        ],
+        "x": 3626.228759765625,
+        "y": 761.491943359375,
+        "w": 30.76504898071289,
+        "h": 6.786407947540283
+      },
+      {
+        "id": "64:110",
+        "parent": "64:118",
+        "name": "Rectangle 65",
+        "visible": true,
+        "colors": [
+          "#E7318D"
+        ],
+        "bound": [
+          {}
+        ],
+        "x": 3642.65625,
+        "y": 855.3223876953125,
+        "w": 38.00388717651367,
+        "h": 32.57475280761719
+      },
+      {
+        "id": "64:120",
+        "parent": "64:119",
+        "name": "Rectangle 13",
+        "visible": true,
+        "colors": [
+          "#E7318D"
+        ],
+        "bound": [
+          {}
+        ],
+        "x": 112,
+        "y": 98,
+        "w": 154,
+        "h": 198
+      },
+      {
+        "id": "64:121",
+        "parent": "64:119",
+        "name": "Rectangle 10",
+        "visible": true,
+        "colors": [
+          "#FFE898"
+        ],
+        "bound": [
+          {}
+        ],
+        "x": 283,
+        "y": 98,
+        "w": 154,
+        "h": 198
+      },
+      {
+        "id": "64:122",
+        "parent": "64:119",
+        "name": "Rectangle 12",
+        "visible": true,
+        "colors": [
+          "#9794F9"
+        ],
+        "bound": [
+          {}
+        ],
+        "x": 454,
+        "y": 98,
+        "w": 154,
+        "h": 198
+      },
+      {
+        "id": "64:128",
+        "parent": "64:119",
+        "name": "Rectangle 7",
+        "visible": true,
+        "colors": [
+          "#C9D863"
+        ],
+        "bound": [
+          {}
+        ],
+        "x": 107,
+        "y": 315,
+        "w": 111,
+        "h": 71
+      },
+      {
+        "id": "64:131",
+        "parent": "64:119",
+        "name": "Rectangle 14",
+        "visible": true,
+        "colors": [
+          "#7C1439"
+        ],
+        "bound": [
+          {}
+        ],
+        "x": 523,
+        "y": 315,
+        "w": 111,
+        "h": 71
+      },
+      {
+        "id": "64:133",
+        "parent": "64:119",
+        "name": "Rectangle 57",
+        "visible": true,
+        "colors": [
+          "#FFF4F6"
+        ],
+        "bound": [
+          {}
+        ],
+        "x": 384,
+        "y": 315,
+        "w": 111,
+        "h": 71
+      },
+      {
+        "id": "64:134",
+        "parent": "64:119",
+        "name": "Rectangle 56",
+        "visible": true,
+        "colors": [
+          "#F48957"
+        ],
+        "bound": [
+          {}
+        ],
+        "x": 246,
+        "y": 315,
+        "w": 110,
+        "h": 71
+      },
+      {
+        "id": "64:137",
+        "parent": "64:136",
+        "name": "Rectangle 13",
+        "visible": true,
+        "colors": [
+          "#E7318D"
+        ],
+        "bound": [
+          {}
+        ],
+        "x": 112,
+        "y": 98,
+        "w": 154,
+        "h": 198
+      },
+      {
+        "id": "64:138",
+        "parent": "64:136",
+        "name": "Rectangle 10",
+        "visible": true,
+        "colors": [
+          "#FFE898"
+        ],
+        "bound": [
+          {}
+        ],
+        "x": 283,
+        "y": 98,
+        "w": 154,
+        "h": 198
+      },
+      {
+        "id": "64:139",
+        "parent": "64:136",
+        "name": "Rectangle 12",
+        "visible": true,
+        "colors": [
+          "#9794F9"
+        ],
+        "bound": [
+          {}
+        ],
+        "x": 454,
+        "y": 98,
+        "w": 154,
+        "h": 198
+      },
+      {
+        "id": "64:140",
+        "parent": "64:136",
+        "name": "Rectangle 7",
+        "visible": true,
+        "colors": [
+          "#C9D863"
+        ],
+        "bound": [
+          {}
+        ],
+        "x": 107,
+        "y": 315,
+        "w": 111,
+        "h": 71
+      },
+      {
+        "id": "64:141",
+        "parent": "64:136",
+        "name": "Rectangle 14",
+        "visible": true,
+        "colors": [
+          "#7C1439"
+        ],
+        "bound": [
+          {}
+        ],
+        "x": 523,
+        "y": 315,
+        "w": 111,
+        "h": 71
+      },
+      {
+        "id": "64:142",
+        "parent": "64:136",
+        "name": "Rectangle 57",
+        "visible": true,
+        "colors": [
+          "#FFF4F6"
+        ],
+        "bound": [
+          {}
+        ],
+        "x": 384,
+        "y": 315,
+        "w": 111,
+        "h": 71
+      },
+      {
+        "id": "64:143",
+        "parent": "64:136",
+        "name": "Rectangle 56",
+        "visible": true,
+        "colors": [
+          "#F48957"
+        ],
+        "bound": [
+          {}
+        ],
+        "x": 246,
+        "y": 315,
+        "w": 110,
+        "h": 71
+      }
+    ],
+    "baseChildren": [
+      {
+        "id": "4:10",
+        "name": "00 · Capa"
+      },
+      {
+        "id": "4:39",
+        "name": "02 · Cor que dá vontade de ficar."
+      },
+      {
+        "id": "4:69",
+        "name": "03 · O look também conta história."
+      },
+      {
+        "id": "4:224",
+        "name": "05 · O bafafá ganha o feed."
+      }
+    ],
+    "moodboardIds": [
+      "15:105",
+      "15:124",
+      "15:131",
+      "15:140",
+      "15:147",
+      "15:153",
+      "20:46",
+      "20:49",
+      "20:52",
+      "20:55",
+      "20:58",
+      "20:62",
+      "20:65",
+      "20:68",
+      "20:87",
+      "20:100",
+      "15:102",
+      "15:144",
+      "15:160",
+      "15:193",
+      "15:202",
+      "20:74",
+      "20:78",
+      "20:81",
+      "20:84",
+      "27:47",
+      "27:56",
+      "27:59",
+      "27:63",
+      "27:66",
+      "27:69",
+      "27:72",
+      "27:75",
+      "15:96",
+      "15:99",
+      "15:108",
+      "15:115",
+      "15:128",
+      "15:150",
+      "15:180",
+      "20:90",
+      "20:97",
+      "22:46",
+      "15:112",
+      "15:118",
+      "15:121",
+      "15:172",
+      "15:189",
+      "20:123",
+      "20:132",
+      "28:45",
+      "28:46",
+      "28:47",
+      "28:48",
+      "15:156",
+      "15:163",
+      "15:169",
+      "20:103",
+      "20:106",
+      "20:110",
+      "20:113",
+      "20:116",
+      "20:119",
+      "15:134",
+      "15:137",
+      "15:166",
+      "20:94",
+      "22:49",
+      "15:177",
+      "15:183",
+      "15:186",
+      "15:196",
+      "15:199",
+      "20:126",
+      "20:129"
+    ]
+  }
+}

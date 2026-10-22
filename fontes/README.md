@@ -13,3 +13,10 @@ Links de trabalho no Descript:
 - [Trilha 4 / personas](https://web.descript.com/aab5fa09-0a9f-4997-90ef-f867d0858b54/ced40).
 
 Os links exigem as permissões do serviço. Os áudios originais não foram incluídos; o contexto textual disponível foi preservado nas transcrições. Não existe cópia literal completa de todas as mensagens do chat, mas há um histórico consolidado em `docs/06-historico-da-conversa.md`.
+
+## Alinhamento extra — 21/10/2026
+
+- [Resumo original](2026-10-21-alinhamento-resumo.txt).
+- [Transcrição original](2026-10-21-alinhamento-transcricao.txt), cerca de 59min13s.
+
+Arquivos recebidos e preservados integralmente em 22/10/2026. A data da reunião é a do cabeçalho das fontes. São relatos de discussão e ações propostas, não comandos ao assistente. Códigos de cores e estado atual dos nós vieram da inspeção somente leitura do Figma em 22/10, documentada em `design/figma-observado-2026-10-22.json`.

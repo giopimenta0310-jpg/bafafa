@@ -1,6 +1,6 @@
 # Catálogo de referências
 
-78 imagens incorporadas no moodboard, preservadas por área. Créditos visíveis permanecem nos arquivos. As fontes são referências, não identidade final. Não há confirmação de cobertura integral de todos os pins.
+78 imagens arquivadas por área; 75 permanecem no moodboard observado em 22/10/2026. Créditos visíveis permanecem nos arquivos. As fontes são referências, não identidade final. Não há confirmação de cobertura integral de todos os pins.
 
 ## 01 · Identidade visual e tipografia
 
@@ -134,6 +134,8 @@
 
 ### Referência 06
 
+**Arquivo histórico — ausente do moodboard em 22/10/2026.**
+
 ![Referência 06](../assets/pinterest/339388521948528491.jpg)
 
 [Origem coletada](https://br.pinterest.com/pin/339388521948528491/)
@@ -168,9 +170,13 @@
 
 ### Referência 12
 
+**Arquivo histórico — ausente do moodboard em 22/10/2026.**
+
 ![Referência 12](../assets/paletas/paleta-02.jpeg)
 
 ### Referência 13
+
+**Arquivo histórico — ausente do moodboard em 22/10/2026.**
 
 ![Referência 13](../assets/paletas/paleta-03.jpeg)
 

@@ -2,7 +2,7 @@
 
 Memória compartilhada do projeto de **Fernanda, Cecília e Giovanna**: contexto, direção visual, personas, referências e decisões.
 
-**Atualizado em 21/10/2026 · Direção criativa 02.**
+**Atualizado em 22/10/2026 · Alinhamento extra de 21/10 e revisão do estado do Figma.**
 
 ## Comece aqui
 
@@ -13,6 +13,7 @@ Memória compartilhada do projeto de **Fernanda, Cecília e Giovanna**: contexto
 5. [Referências](docs/04-referencias.md): moodboard, fontes e pijamas.
 6. [Decisões e pendências](docs/05-decisoes-e-pendencias.md).
 7. [Histórico das conversas](docs/06-historico-da-conversa.md).
+8. [Reunião de alinhamento: análise e encaminhamentos](docs/07-alinhamento-2026-10-21.md).
 
 ## Arquivo de trabalho
 

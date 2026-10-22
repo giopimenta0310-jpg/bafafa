@@ -14,15 +14,15 @@ Pedido explícito: reunir por área visual, sem divisão pelo nome de quem salvo
 | Categoria | Imagens |
 |---|---:|
 | Identidade visual e tipografia | 16 |
-| Cores, padrões e grafismos | 20 |
+| Cores, padrões e grafismos | 17 |
 | Ilustração e colagem | 10 |
 | Styling, pijamas e poses | 11 |
 | Cenário e decoração | 9 |
 | Livros e rotina de leitura | 5 |
 | Objetos e aplicações de marca | 7 |
-| **Total** | **78** |
+| **Total atual no Figma** | **75** |
 
-O total inclui 64 imagens recuperadas do Pinterest, dez imagens enviadas no WhatsApp e quatro fotos do primeiro pijama. Imagens adicionais de carrosséis podem representar o mesmo pin. O vídeo foi representado pela capa com link.
+O arquivo histórico inclui 78 imagens: 64 recuperadas do Pinterest, dez enviadas no WhatsApp e quatro fotos do primeiro pijama. Em 22/10, o Figma contém 75: não estão mais presentes Shrek (`20:71`) e duas capturas de paleta (`27:50`, embalagens; `27:53`, Daffodil/Blush/Lavender). A remoção de Shrek foi mencionada na reunião; não foi inferido motivo para as outras duas. Todos os arquivos históricos foram preservados, com presença atual indicada no manifesto e no catálogo. Imagens adicionais de carrosséis podem representar o mesmo pin. O vídeo foi representado pela capa com link.
 
 ## Limites da coleta
 
